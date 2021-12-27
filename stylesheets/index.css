@@ -1,0 +1,29 @@
+.robotList {
+    padding-left: 9px;
+    list-style: none;
+}
+
+.robotList li:before {
+    content: "🤖";
+    margin: 0 8px 0 0;
+}
+
+.speakerList {
+    padding-left: 9px;
+    list-style: none;
+}
+
+.speakerList li:before {
+    content: "🎤";
+    margin: 0 8px 0 0;
+}
+
+.webList {
+    padding-left: 9px;
+    list-style: none;
+}
+
+.webList li:before {
+    content: "🌐";
+    margin: 0 8px 0 0;
+}
