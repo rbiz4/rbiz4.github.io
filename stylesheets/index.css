@@ -8,6 +8,16 @@
     margin: 0 8px 0 0;
 }
 
+.embeddedList {
+    padding-left: 9px;
+    list-style: none;
+}
+
+.embeddedList li:before {
+    content: "🖫";
+    margin: 0 8px 0 0;
+}
+
 .speakerList {
     padding-left: 9px;
     list-style: none;
