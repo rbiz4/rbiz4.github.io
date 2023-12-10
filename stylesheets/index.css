@@ -14,7 +14,7 @@
 }
 
 .embeddedList li:before {
-    content: "🖫";
+    content: "💾︎";
     margin: 0 8px 0 0;
 }
 
